@@ -589,3 +589,14 @@
 2024-06-14 12:11:32,527 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for library.localhost
 2024-06-14 12:11:32,534 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.pull because it was found in queue for library.localhost
 2024-06-14 12:11:32,542 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for library.localhost
+2024-06-14 12:12:32,583 ERROR scheduler Skipped queueing frappe.email.doctype.auto_email_report.auto_email_report.send_daily because it was found in queue for library.localhost
+2024-06-14 12:12:32,588 ERROR scheduler Skipped queueing frappe.integrations.doctype.s3_backup_settings.s3_backup_settings.take_backups_daily because it was found in queue for library.localhost
+2024-06-14 12:12:32,591 ERROR scheduler Skipped queueing frappe.utils.change_log.check_for_update because it was found in queue for library.localhost
+2024-06-14 12:12:32,595 ERROR scheduler Skipped queueing frappe.integrations.doctype.dropbox_settings.dropbox_settings.take_backups_daily because it was found in queue for library.localhost
+2024-06-14 12:12:32,637 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for library.localhost
+2024-06-14 12:12:32,640 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for library.localhost
+2024-06-14 12:12:32,642 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for library.localhost
+2024-06-14 12:12:32,645 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for library.localhost
+2024-06-14 12:12:32,647 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for library.localhost
+2024-06-14 12:12:32,654 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.pull because it was found in queue for library.localhost
+2024-06-14 12:12:32,660 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for library.localhost
