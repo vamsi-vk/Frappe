@@ -1,0 +1,15 @@
+{
+ "creation": "2024-06-12 16:01:58.710469",
+ "docstatus": 0,
+ "doctype": "Client Script",
+ "dt": "Policy",
+ "enabled": 1,
+ "idx": 0,
+ "modified": "2024-06-12 16:02:54.078918",
+ "modified_by": "Administrator",
+ "module": "Export Check",
+ "name": "Vehicle-details",
+ "owner": "Administrator",
+ "script": "\nfrappe.ui.form.on('Policy', {\n    vehicle_type: function(frm) {\n        var vehicleType = frm.doc.vehicle_type;\n        if (vehicleType === '2 W') {\n            frm.set_query('make', function() {\n                return {\n                    filters: [\n                        ['Vehicles', 'vehicle_type', '=', 'Two Wheeler']\n                    ]\n                };\n            });\n        } else if (vehicleType === 'Pvt Car') {\n            frm.set_query('make', function() {\n                return {\n                    filters: [\n                        ['Vehicles', 'vehicle_type', '=', 'Four Wheeler']\n                    ]\n                };\n            });\n        }\n    }\n});",
+ "view": "Form"
+}

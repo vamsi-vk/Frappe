@@ -1,0 +1,1258 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "PF.#####",
+ "creation": "2024-06-12 15:57:33.222928",
+ "custom": 1,
+ "default_view": "List",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "section_break_qggn",
+  "insured_details_column_break",
+  "proposer_full_name",
+  "date_of_birth",
+  "e_mail_address",
+  "column_break_pwpq",
+  "dev_officer_name_code",
+  "gender",
+  "nationality",
+  "fax_no",
+  "column_break_faaq",
+  "agency_code_name",
+  "occupation",
+  "telephone_no",
+  "pan_no",
+  "phone_no",
+  "address_section",
+  "address",
+  "pin",
+  "column_break_yudz",
+  "primary_address",
+  "pin_code",
+  "period_of_insurance",
+  "ampm_of",
+  "column_break_iqhn",
+  "to_date",
+  "policy_details_section",
+  "policy_scheme",
+  "column_break_niou",
+  "policy_price",
+  "vehicle_information",
+  "date_of_purchase",
+  "vehicle_use",
+  "column_break_srzj",
+  "new_or_old",
+  "vehicle_condition",
+  "give_vehicle_details_section",
+  "vehicle_type",
+  "new_vehicle",
+  "purchase_date",
+  "registration_no",
+  "engine_no",
+  "make",
+  "body_type",
+  "vehicle_zone",
+  "vehicle_used_for_tuition",
+  "is_imported_vehicle",
+  "column_break_dssu",
+  "current_ownership",
+  "manufacturer_year",
+  "vehicle_color",
+  "date_of_registration",
+  "chassis_no",
+  "model",
+  "variant",
+  "type_of_fuel",
+  "vehicle_use_limited_to_premises",
+  "vehicle_vintage_certified",
+  "section_break_7gjb",
+  "is_special_vehicle",
+  "column_break_taqd",
+  "section_break_3u1b",
+  "fibre_glass_tank_fitted",
+  "member_of_automation_association",
+  "membership_no",
+  "car_in_roadworthy",
+  "built_with_antitheft_device",
+  "obsolete_vehicle",
+  "extension_of_geographical_area",
+  "vehicle_invoice_value",
+  "registration_validity",
+  "vehicle_requisitioned",
+  "rally_extension_required",
+  "registration_officer",
+  "cubic_capacity",
+  "trailer_attached",
+  "vehicle_proposed_for_insurance",
+  "column_break_imuz",
+  "fibre_glass_tank",
+  "association_name",
+  "expiry_date",
+  "details_of_vehicle_condition",
+  "type_model_details",
+  "extension_upto",
+  "body_building_cost",
+  "insured_declared_value",
+  "no_of_days_rally",
+  "seating_capacity",
+  "no_of_trailer_attached",
+  "total_idv_attached",
+  "name_address_of_concern_parties",
+  "nb",
+  "extra_electrical_device_fittings",
+  "column_break_ygfa",
+  "value_of_music_system",
+  "value_of_ac_fan",
+  "value_of_lights",
+  "value_of_other_fittings",
+  "value_of_other_electrical_devices",
+  "section_break_z8p8",
+  "extra_non_electrical_fittings",
+  "additional_towing_coverage",
+  "value_of_side_car",
+  "column_break_radh",
+  "value_of_non_electrical_devices",
+  "addition_towing_coverage_amount",
+  "value_of_cng_lpg_kit",
+  "3a_compulsory_owner_driver_pa_section",
+  "has_driving_license",
+  "owner_driver_age",
+  "owner_driver_license_issue_date",
+  "license_issuing_authoriy",
+  "column_break_weim",
+  "if_yes_then_license_type_of_owner_driver",
+  "owner_driver_driving_license_no",
+  "owner_driver_license_expiry_date",
+  "nominee_name",
+  "driver_license_details",
+  "has_any_other_driver",
+  "met_any_accidents",
+  "ncb_applicable",
+  "column_break_lnvi",
+  "accident_details",
+  "4_previous_insurance_particulars_section",
+  "insurer_name",
+  "insurer_address",
+  "voluntare_excess_for_pc",
+  "column_break_ixky",
+  "policy_number",
+  "policy_expiry_date",
+  "coverage_details",
+  "want_to_include_pa_cover",
+  "column_break_ilvv",
+  "no_of_named_persons",
+  "section_break_zud6",
+  "names_of_named_persons",
+  "section_break_rpna",
+  "individual_csi_of_named_person",
+  "want_to_include_pa_cover_paid_drivers",
+  "psi_for_paid_driver",
+  "want_to_include_pa_cover_unnamed_drivers",
+  "csi_for_unnamed_person",
+  "nominee_particulars",
+  "column_break_pfnz",
+  "capital_si_named_persons",
+  "no_of_paid_drivers",
+  "capital_si_drivers",
+  "no_of_unnamed_persons",
+  "capital_si_for_unnamed_persons",
+  "name_gender_age",
+  "legal_liability",
+  "ll_to_paid_drivers",
+  "ll_to_employees",
+  "ll_to_soldiers",
+  "want_to_reduce_tppd",
+  "column_break_yqoq",
+  "no_of_drivers",
+  "no_of_employees",
+  "no_of_ll_to_soldiers",
+  "section_break_tjsi",
+  "column_break_oxya",
+  "html_ecvd",
+  "section_break_nbny",
+  "place",
+  "date_and_time",
+  "column_break_gcmj",
+  "lti___signatures_of_the_proposer",
+  "name_of_the_witness_with_signatue",
+  "section_break_yhlb",
+  "kyc_done_or_not",
+  "column_break_iquy",
+  "back_ground_checking_done_or_not",
+  "column_break_xdyz",
+  "documents_verification_done_or_not",
+  "column_break_zbjt",
+  "vehicle_inspection_done_or_not",
+  "section_break_cyai",
+  "is_broker_involved",
+  "column_break_xpnd",
+  "select_broker",
+  "column_break_tgmc",
+  "commission",
+  "section_break_klst",
+  "premium_rate",
+  "tax_rate",
+  "column_break_cmem",
+  "sum_insured",
+  "discount_rate",
+  "total_amount",
+  "section_break_sbhm",
+  "endorsement_id",
+  "column_break_lsyv",
+  "endorsement_type"
+ ],
+ "fields": [
+  {
+   "fieldname": "section_break_qggn",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "insured_details_column_break",
+   "fieldtype": "Column Break",
+   "label": "Insured Details"
+  },
+  {
+   "fieldname": "proposer_full_name",
+   "fieldtype": "Link",
+   "label": "Proposer's  (Owner\u2019s) Full Name",
+   "options": "Customer"
+  },
+  {
+   "fieldname": "date_of_birth",
+   "fieldtype": "Date",
+   "label": "Date of Birth"
+  },
+  {
+   "fieldname": "e_mail_address",
+   "fieldtype": "Data",
+   "label": "E-Mail Address"
+  },
+  {
+   "fieldname": "column_break_pwpq",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "dev_officer_name_code",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Dev. Officer  Name & Code",
+   "reqd": 1
+  },
+  {
+   "fetch_from": "proposer_full_name.gender",
+   "fieldname": "gender",
+   "fieldtype": "Select",
+   "label": " Male / Female",
+   "options": "\nMale\nFemale"
+  },
+  {
+   "fieldname": "nationality",
+   "fieldtype": "Link",
+   "label": "Nationality",
+   "options": "Country"
+  },
+  {
+   "fieldname": "fax_no",
+   "fieldtype": "Data",
+   "label": "Fax No"
+  },
+  {
+   "fieldname": "column_break_faaq",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "agency_code_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Agency Code     Name",
+   "reqd": 1
+  },
+  {
+   "fieldname": "occupation",
+   "fieldtype": "Data",
+   "label": "Occupation"
+  },
+  {
+   "fieldname": "telephone_no",
+   "fieldtype": "Int",
+   "label": "Tel No"
+  },
+  {
+   "fetch_from": "proposer_full_name.tax_id",
+   "fieldname": "pan_no",
+   "fieldtype": "Data",
+   "label": "PAN No."
+  },
+  {
+   "fieldname": "phone_no",
+   "fieldtype": "Int",
+   "label": "Phone No."
+  },
+  {
+   "fieldname": "address_section",
+   "fieldtype": "Section Break",
+   "label": "Address"
+  },
+  {
+   "fieldname": "address",
+   "fieldtype": "Small Text",
+   "label": "Address ( where vehicle is normally kept and used)"
+  },
+  {
+   "fieldname": "pin",
+   "fieldtype": "Data",
+   "label": "Pin"
+  },
+  {
+   "fieldname": "column_break_yudz",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fetch_from": "proposer_full_name.primary_address",
+   "fieldname": "primary_address",
+   "fieldtype": "Small Text",
+   "label": "Address (Permanent)"
+  },
+  {
+   "fieldname": "pin_code",
+   "fieldtype": "Data",
+   "label": "Pin"
+  },
+  {
+   "fieldname": "period_of_insurance",
+   "fieldtype": "Section Break",
+   "label": "Period proposed for insurance"
+  },
+  {
+   "fieldname": "ampm_of",
+   "fieldtype": "Date",
+   "label": "From"
+  },
+  {
+   "fieldname": "column_break_iqhn",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "to_date",
+   "fieldtype": "Date",
+   "label": "To"
+  },
+  {
+   "fieldname": "policy_details_section",
+   "fieldtype": "Section Break",
+   "label": "Policy Details"
+  },
+  {
+   "fieldname": "policy_scheme",
+   "fieldtype": "Link",
+   "label": "Type of Policy",
+   "options": "Item",
+   "reqd": 1
+  },
+  {
+   "fieldname": "column_break_niou",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "policy_price",
+   "fieldtype": "Float",
+   "label": "Policy Price"
+  },
+  {
+   "fieldname": "vehicle_information",
+   "fieldtype": "Section Break",
+   "label": "2.\u00a0\u00a0\u00a0 Particulars of  the vehicle"
+  },
+  {
+   "fieldname": "date_of_purchase",
+   "fieldtype": "Date",
+   "label": "2.1 - Date of Purchase of Vehicle by Proposer"
+  },
+  {
+   "fieldname": "vehicle_use",
+   "fieldtype": "Select",
+   "label": "2.2 - Vehicle Used for Private,Social, domestic,pleasure, professional purpose",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "column_break_srzj",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "new_or_old",
+   "fieldtype": "Select",
+   "label": "2.3 - Is Vehicle  New or Second Hand at the time of purchase?",
+   "options": "\nNew\nSecond Hand"
+  },
+  {
+   "fieldname": "vehicle_condition",
+   "fieldtype": "Select",
+   "label": "2.4 - Is vehicle in good condition?",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "give_vehicle_details_section",
+   "fieldtype": "Section Break",
+   "label": "Give Vehicle Details"
+  },
+  {
+   "fieldname": "vehicle_type",
+   "fieldtype": "Select",
+   "label": "2.5 - Type of Vehicle(2 W/Pvt Car /Comm.)",
+   "options": "\n2 W\nPvt Car\nComm."
+  },
+  {
+   "fieldname": "new_vehicle",
+   "fieldtype": "Select",
+   "label": "2.7 - New Vehicle",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "purchase_date",
+   "fieldtype": "Date",
+   "label": "2.9 - Date of Purchase"
+  },
+  {
+   "fieldname": "registration_no",
+   "fieldtype": "Data",
+   "label": "2.10 - Registration No."
+  },
+  {
+   "fieldname": "engine_no",
+   "fieldtype": "Data",
+   "label": "2.13 - Engine No"
+  },
+  {
+   "fieldname": "make",
+   "fieldtype": "Link",
+   "label": "2.15 - Make",
+   "options": "Vehicles"
+  },
+  {
+   "fetch_from": "make.body_type",
+   "fieldname": "body_type",
+   "fieldtype": "Data",
+   "label": "2.17 - Type Of Body"
+  },
+  {
+   "fieldname": "vehicle_zone",
+   "fieldtype": "Select",
+   "label": "2.19 - Vehicle Zone",
+   "options": "\nA\nB\nC"
+  },
+  {
+   "fieldname": "vehicle_used_for_tuition",
+   "fieldtype": "Select",
+   "label": "2.21 - Whether vehicle is used for driving tuition",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "is_imported_vehicle",
+   "fieldtype": "Select",
+   "label": "2.23 - Whether vehicle belongs to foreign embassy or consulate or Imported vehicle without Custom Duty",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "column_break_dssu",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "current_ownership",
+   "fieldtype": "Data",
+   "label": "2.6 - Current Ownership"
+  },
+  {
+   "fieldname": "manufacturer_year",
+   "fieldtype": "Data",
+   "label": "2.8 -Year of Manufacture"
+  },
+  {
+   "fieldname": "vehicle_color",
+   "fieldtype": "Data",
+   "label": "2.12 -Color of Vehicle"
+  },
+  {
+   "fieldname": "date_of_registration",
+   "fieldtype": "Date",
+   "label": "2.11 - Date of Registration"
+  },
+  {
+   "fieldname": "chassis_no",
+   "fieldtype": "Data",
+   "label": "2.14 - Chassis No"
+  },
+  {
+   "fetch_from": "make.model",
+   "fieldname": "model",
+   "fieldtype": "Data",
+   "label": "2.16 - Model"
+  },
+  {
+   "fetch_from": "make.variant",
+   "fieldname": "variant",
+   "fieldtype": "Data",
+   "label": "2.18 - Variant"
+  },
+  {
+   "fieldname": "type_of_fuel",
+   "fieldtype": "Select",
+   "label": "2.20 - Type of Fuel(Petrol/CNG/LPG/Bi-fuel)",
+   "options": "\nPetrol\nDisel\nCNG\nElectrical"
+  },
+  {
+   "fieldname": "vehicle_use_limited_to_premises",
+   "fieldtype": "Select",
+   "label": "2.22 -Vehicle use is limited to own premises",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "vehicle_vintage_certified",
+   "fieldtype": "Select",
+   "label": "2.24 - Whether vehicle is certified as Vintage car by Vintage and Classic Car Club of India",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "section_break_7gjb",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "is_special_vehicle",
+   "fieldtype": "Select",
+   "label": "2.25 - Vehicle designed for Blind/Handicapped/Mentally Challenged persons and endorsed by RTA",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "column_break_taqd",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "section_break_3u1b",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "fibre_glass_tank_fitted",
+   "fieldtype": "Select",
+   "label": "2.26 - Fibre Glass Tank Fitted",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "member_of_automation_association",
+   "fieldtype": "Select",
+   "label": "2.27 -  Are you a member of Automobile Association of India",
+   "options": "\nYes\nNo"
+  },
+  {
+   "depends_on": "eval: doc.member_of_automation_association=='Yes'",
+   "fieldname": "membership_no",
+   "fieldtype": "Data",
+   "label": "Membership No"
+  },
+  {
+   "fieldname": "car_in_roadworthy",
+   "fieldtype": "Select",
+   "label": "2.28 - Car in roadworthy condition and free from damage",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "built_with_antitheft_device",
+   "fieldtype": "Select",
+   "label": "2.29 - Is the vehicle fitted with Anti-theft device",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "obsolete_vehicle",
+   "fieldtype": "Select",
+   "label": "2.30 -  Obsolete Vehicle",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "extension_of_geographical_area",
+   "fieldtype": "Select",
+   "label": "2.31 - Extension of Geographical Area required",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "vehicle_invoice_value",
+   "fieldtype": "Currency",
+   "label": "2.32 -  Vehicle Invoice Value"
+  },
+  {
+   "fieldname": "registration_validity",
+   "fieldtype": "Date",
+   "label": "2.33 - Registration validity date"
+  },
+  {
+   "fieldname": "vehicle_requisitioned",
+   "fieldtype": "Select",
+   "label": "2.34 - Vehicle Requisitioned by Government",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "rally_extension_required",
+   "fieldtype": "Select",
+   "label": "2.36 - Whether Rally extension required for Motor Racing / Speed Test",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "registration_officer",
+   "fieldtype": "Data",
+   "label": "2.37 - Name and Address of Registration Authority"
+  },
+  {
+   "fieldname": "cubic_capacity",
+   "fieldtype": "Data",
+   "label": "2.39 - Cubic Capacity"
+  },
+  {
+   "fieldname": "trailer_attached",
+   "fieldtype": "Select",
+   "label": "2.40 - Whether trailer attached to the vehicle                         (For Commercial Vehicle)",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "vehicle_proposed_for_insurance",
+   "fieldtype": "Select",
+   "label": "Is the vehicle proposed for insurance Under Hire Purchase / Under Lease Agreement /Under Hypothication Agreement",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "column_break_imuz",
+   "fieldtype": "Column Break"
+  },
+  {
+   "depends_on": "eval: doc.fibre_glass_tank_fitted=='Yes'",
+   "fieldname": "fibre_glass_tank",
+   "fieldtype": "Data",
+   "label": "If Yes then Value of Fibre glass fuel tanks"
+  },
+  {
+   "depends_on": "eval: doc.member_of_automation_association=='Yes'",
+   "fieldname": "association_name",
+   "fieldtype": "Data",
+   "label": "If Yes then Name of Association"
+  },
+  {
+   "depends_on": "eval: doc.member_of_automation_association=='Yes'",
+   "fieldname": "expiry_date",
+   "fieldtype": "Date",
+   "label": "Date of Expiry"
+  },
+  {
+   "fieldname": "details_of_vehicle_condition",
+   "fieldtype": "Data",
+   "label": "Details of Vehicle Condition"
+  },
+  {
+   "fieldname": "type_model_details",
+   "fieldtype": "Data",
+   "label": "Give, details - Type / Model"
+  },
+  {
+   "depends_on": "eval: doc.extension_of_geographical_area=='Yes';",
+   "fieldname": "extension_upto",
+   "fieldtype": "Select",
+   "label": " Extension to:",
+   "options": "\nBangladesh\nBhutan\nNepal\nPakistan\nSrilanka\nMaldives"
+  },
+  {
+   "fieldname": "body_building_cost",
+   "fieldtype": "Currency",
+   "label": "2.32(i) - Body Building Cost "
+  },
+  {
+   "fieldname": "insured_declared_value",
+   "fieldtype": "Currency",
+   "label": "2.35 - Insured's Declared Value (IDV)"
+  },
+  {
+   "fieldname": "no_of_days_rally",
+   "fieldtype": "Int",
+   "label": "No.of days for Rally"
+  },
+  {
+   "fieldname": "seating_capacity",
+   "fieldtype": "Int",
+   "label": "2.38 -Seating Capacity"
+  },
+  {
+   "depends_on": "eval: doc.trailer_attached==='Yes'",
+   "fieldname": "no_of_trailer_attached",
+   "fieldtype": "Int",
+   "label": "Number of Trailers Attached"
+  },
+  {
+   "depends_on": "eval: doc.trailer_attached==='Yes'",
+   "fieldname": "total_idv_attached",
+   "fieldtype": "Currency",
+   "label": "Total IDV of the Trailer Attached"
+  },
+  {
+   "depends_on": "eval: doc.vehicle_proposed_for_insurance==='Yes'",
+   "fieldname": "name_address_of_concern_parties",
+   "fieldtype": "Data",
+   "label": "If Yes, give name and address of concerned parties "
+  },
+  {
+   "fieldname": "nb",
+   "fieldtype": "Section Break",
+   "label": "N.B. * For Office Use Only"
+  },
+  {
+   "fieldname": "extra_electrical_device_fittings",
+   "fieldtype": "Select",
+   "label": "2.41 - Extra Electrical/ Electronic fittings",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "column_break_ygfa",
+   "fieldtype": "Column Break"
+  },
+  {
+   "depends_on": "eval: doc.extra_electrical_device_fittings=='Yes'",
+   "fieldname": "value_of_music_system",
+   "fieldtype": "Currency",
+   "label": "Value of Music System"
+  },
+  {
+   "depends_on": "eval: doc.extra_electrical_device_fittings=='Yes'",
+   "fieldname": "value_of_ac_fan",
+   "fieldtype": "Currency",
+   "label": "Value of AC/Fan"
+  },
+  {
+   "depends_on": "eval: doc.extra_electrical_device_fittings=='Yes'",
+   "fieldname": "value_of_lights",
+   "fieldtype": "Currency",
+   "label": "Value of Lights"
+  },
+  {
+   "depends_on": "eval: doc.extra_electrical_device_fittings=='Yes'",
+   "fieldname": "value_of_other_fittings",
+   "fieldtype": "Currency",
+   "label": "Value of Other Fittings"
+  },
+  {
+   "depends_on": "eval: doc.extra_electrical_device_fittings=='Yes'",
+   "fieldname": "value_of_other_electrical_devices",
+   "fieldtype": "Currency",
+   "label": "Total Value of Extra Electrical/ Electronic fittings"
+  },
+  {
+   "fieldname": "section_break_z8p8",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "extra_non_electrical_fittings",
+   "fieldtype": "Select",
+   "label": "2.42 - Non-Electrical/ Electronic fittings",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "additional_towing_coverage",
+   "fieldtype": "Select",
+   "label": "2.43 - Additional Towing Coverage Required",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "value_of_side_car",
+   "fieldtype": "Currency",
+   "label": "2.44 - Value of Side Car "
+  },
+  {
+   "fieldname": "column_break_radh",
+   "fieldtype": "Column Break"
+  },
+  {
+   "depends_on": "eval: doc.extra_non_electrical_fittings=='Yes'",
+   "fieldname": "value_of_non_electrical_devices",
+   "fieldtype": "Currency",
+   "label": "Value of Non- Electrical/ Electronic fittings"
+  },
+  {
+   "depends_on": "eval: doc.additional_towing_coverage=='Yes'",
+   "fieldname": "addition_towing_coverage_amount",
+   "fieldtype": "Currency",
+   "label": "If Yes then Additional Towing Coverage Amount"
+  },
+  {
+   "fieldname": "value_of_cng_lpg_kit",
+   "fieldtype": "Currency",
+   "label": "Value of CNG/LPG Kit"
+  },
+  {
+   "fieldname": "3a_compulsory_owner_driver_pa_section",
+   "fieldtype": "Section Break",
+   "label": "3A. COMPULSORY OWNER DRIVER PA"
+  },
+  {
+   "fieldname": "has_driving_license",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "3.1 -   Do You Hold Valid Driving License  (If 'No', please refer declaration on page 3)",
+   "options": "\nYes\nNo",
+   "reqd": 1
+  },
+  {
+   "fieldname": "owner_driver_age",
+   "fieldtype": "Int",
+   "label": "3.2 - Age of Owner Driver"
+  },
+  {
+   "fieldname": "owner_driver_license_issue_date",
+   "fieldtype": "Date",
+   "label": "3.4 -Owner Driver License Issue Date"
+  },
+  {
+   "fieldname": "license_issuing_authoriy",
+   "fieldtype": "Data",
+   "label": "3.6 - License Issuing Authority for Owner Driver"
+  },
+  {
+   "fieldname": "column_break_weim",
+   "fieldtype": "Column Break"
+  },
+  {
+   "depends_on": "eval: doc.has_driving_license=='Yes'",
+   "fieldname": "if_yes_then_license_type_of_owner_driver",
+   "fieldtype": "Data",
+   "label": "If Yes then License Type of Owner Driver"
+  },
+  {
+   "fieldname": "owner_driver_driving_license_no",
+   "fieldtype": "Data",
+   "label": "3.3 - Owner Driver Driving License No"
+  },
+  {
+   "fieldname": "owner_driver_license_expiry_date",
+   "fieldtype": "Date",
+   "label": "3.5 - Owner Driver License Expiry Date"
+  },
+  {
+   "fieldname": "nominee_name",
+   "fieldtype": "Data",
+   "label": "3.7 - Name of Nominee"
+  },
+  {
+   "fieldname": "driver_license_details",
+   "fieldtype": "Section Break",
+   "label": "3B. DRIVER/ DRIVING LICENCES PARTICULARS"
+  },
+  {
+   "fieldname": "has_any_other_driver",
+   "fieldtype": "Select",
+   "label": "3.8 - Do you Have Any other Driver",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "met_any_accidents",
+   "fieldtype": "Select",
+   "label": "In the past three years, whether the driver met with  accident/s and  convicted for such offences",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "ncb_applicable",
+   "fieldtype": "Percent",
+   "label": "3.9 - NCB Applicable %"
+  },
+  {
+   "fieldname": "column_break_lnvi",
+   "fieldtype": "Column Break"
+  },
+  {
+   "depends_on": "eval:doc.has_any_other_driver=='Yes'",
+   "fieldname": "accident_details",
+   "fieldtype": "Small Text",
+   "label": "If yes, give details"
+  },
+  {
+   "fieldname": "4_previous_insurance_particulars_section",
+   "fieldtype": "Section Break",
+   "label": "4. PREVIOUS INSURANCE PARTICULARS "
+  },
+  {
+   "fieldname": "insurer_name",
+   "fieldtype": "Data",
+   "label": "4.1 - Name of Previous Insurer"
+  },
+  {
+   "fieldname": "insurer_address",
+   "fieldtype": "Data",
+   "label": "4.2 - Address of the Previous Insurer"
+  },
+  {
+   "fieldname": "voluntare_excess_for_pc",
+   "fieldtype": "Currency",
+   "label": "4.5 - Voluntary Excess for PC"
+  },
+  {
+   "fieldname": "column_break_ixky",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "policy_number",
+   "fieldtype": "Data",
+   "label": "4.3 -Previous Policy Number"
+  },
+  {
+   "fieldname": "policy_expiry_date",
+   "fieldtype": "Date",
+   "label": "4.4 - Expiry date of previous Policy"
+  },
+  {
+   "fieldname": "coverage_details",
+   "fieldtype": "Section Break",
+   "label": "5.  PERSONAL ACCIDENT COVERS"
+  },
+  {
+   "fieldname": "want_to_include_pa_cover",
+   "fieldtype": "Select",
+   "label": "5.1 -  Do you want to include PA cover for Named Person",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "column_break_ilvv",
+   "fieldtype": "Column Break"
+  },
+  {
+   "depends_on": "eval:doc.want_to_include_pa_cover=='Yes'",
+   "fieldname": "no_of_named_persons",
+   "fieldtype": "Int",
+   "label": "5.2 - If Yes then Number of Named Persons"
+  },
+  {
+   "fieldname": "section_break_zud6",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "names_of_named_persons",
+   "fieldtype": "Small Text",
+   "label": "5.3 - Names of Named person"
+  },
+  {
+   "fieldname": "section_break_rpna",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "individual_csi_of_named_person",
+   "fieldtype": "Currency",
+   "label": "5.4 - Individual CSI for Named Person"
+  },
+  {
+   "fieldname": "want_to_include_pa_cover_paid_drivers",
+   "fieldtype": "Select",
+   "label": "5.5 -Do you wish to include PA Cover for Paid Drivers",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "psi_for_paid_driver",
+   "fieldtype": "Currency",
+   "label": "5.6 - Individual CSI for Paid Driver"
+  },
+  {
+   "fieldname": "want_to_include_pa_cover_unnamed_drivers",
+   "fieldtype": "Select",
+   "label": "5.7 -Do you want to include PA cover for unnamed person",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "csi_for_unnamed_person",
+   "fieldtype": "Currency",
+   "label": "5.8 - Individual CSI for unnamed Person"
+  },
+  {
+   "fieldname": "nominee_particulars",
+   "fieldtype": "Data",
+   "label": "5.9 - Nominee particulars"
+  },
+  {
+   "fieldname": "column_break_pfnz",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "capital_si_named_persons",
+   "fieldtype": "Currency",
+   "label": "Capital SI for All Named Persons"
+  },
+  {
+   "depends_on": "eval: doc.want_to_include_pa_cover_paid_drivers=='Yes'",
+   "fieldname": "no_of_paid_drivers",
+   "fieldtype": "Int",
+   "label": "If Yes then No of Paid Drivers"
+  },
+  {
+   "fieldname": "capital_si_drivers",
+   "fieldtype": "Currency",
+   "label": "Capital SI for Drivers"
+  },
+  {
+   "depends_on": "eval: doc.want_to_include_pa_cover_unnamed_drivers=='Yes'",
+   "fieldname": "no_of_unnamed_persons",
+   "fieldtype": "Int",
+   "label": "If Yes then No of unnamed Persons"
+  },
+  {
+   "fieldname": "capital_si_for_unnamed_persons",
+   "fieldtype": "Currency",
+   "label": "Capital SI for unnamed Persons"
+  },
+  {
+   "fieldname": "name_gender_age",
+   "fieldtype": "Data",
+   "label": "Name, Sex and Age"
+  },
+  {
+   "fieldname": "legal_liability",
+   "fieldtype": "Section Break",
+   "label": "6. LEGAL LIABILITY COVERAGE : (Applicable for Commercial vehicles)"
+  },
+  {
+   "fieldname": "ll_to_paid_drivers",
+   "fieldtype": "Select",
+   "label": "6.1 - LL to paid drivers,cleaner employed for operation. and/or maintenence  of vehicle under WCA",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "ll_to_employees",
+   "fieldtype": "Select",
+   "label": "6.2 - LL to Employees of Insured traveling and / or driving the Vehicle",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "ll_to_soldiers",
+   "fieldtype": "Select",
+   "label": "6.3 - LL to Soldiers/Sailors/Airmen employed as Drivers",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "want_to_reduce_tppd",
+   "fieldtype": "Select",
+   "label": " 6.4 -  Do You want to reduce TPPD cover to the statutory limit of Rs.6000",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "column_break_yqoq",
+   "fieldtype": "Column Break"
+  },
+  {
+   "depends_on": "eval:doc.ll_to_paid_drivers=='Yes'",
+   "fieldname": "no_of_drivers",
+   "fieldtype": "Int",
+   "label": "If Yes then Number of Drivers Legally Liable "
+  },
+  {
+   "depends_on": "eval:doc.ll_to_employees=='Yes'",
+   "fieldname": "no_of_employees",
+   "fieldtype": "Int",
+   "label": "If Yes then Number of employees Legally liable."
+  },
+  {
+   "depends_on": "eval:doc.ll_to_soldiers=='Yes'",
+   "fieldname": "no_of_ll_to_soldiers",
+   "fieldtype": "Int",
+   "label": "If Yes then Number of LL to Soldiers/Sailors/Airmen"
+  },
+  {
+   "fieldname": "section_break_tjsi",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "column_break_oxya",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "html_ecvd",
+   "fieldtype": "HTML",
+   "hidden": 1,
+   "options": "<style>\n  table {\n    width: 100%;\n    border-collapse: collapse;\n  }\n  th, td {\n    border: 1px solid black;\n    padding: 8px;\n    font-size: 12px;\n    color: black;\n  }\n  .t2{\n    text-align: center;\n    font-weight: bold;\n  }\n  th {\n    background-color: lightgray;\n  }\n</style>\n\n\n<!-- First Table -->\n<table>\n  <tbody><tr><th colspan=\"2\" style=\"text-align: center; font-size: 16px;\">INSTRUCTION ON INSURED\u2019S DECLARED VALUE</th>\n  </tr>\n  <tr>\n    <td colspan=\"2\">The Insured\u2019s Declared Value (IDV) of the vehicle will be deemed to be the \u2018SUM INSURED\u2019 for the purpose of this tariff and it will be fixed at the commencement of each policy period for each insured vehicle.</td>\n  </tr>\n  <tr>\n    <td colspan=\"2\">The IDV of the vehicle is to be fixed on the basis of manufacturers\u2019 listed selling price of the brand and model as the vehicle proposed for insurance at the commencement of insurance /renewal, and adjusted for depreciation (as per schedule specified below). The IDV of the side car(s) and / or accessories, if any, fitted to the vehicle but not included in the manufacturer\u2019s listed selling price of the vehicle is / are also likewise to be fixed.</td>\n  </tr>\n  <tr>\n    <td colspan=\"2\">The schedule of age-wise depreciation as shown below is applicable for the purpose of Total Loss/ Constructive Total Loss (TL/ CTL) claims only. A vehicle will be considered to be a CTL where the aggregate cost of retrieval and / or repair of the vehicle subject to terms and conditions of the policy exceeds 75% of the IDV.</td>\n  </tr>\n</tbody></table>\n.\n<!-- Second Table -->\n<table class=\"t2\">\n    <tbody><tr><th colspan=\"2\" style=\"background-color: rgb(173, 169, 169); color:white;\">SCHEDULE OF DEPRECIATION FOR  ARRIVING AT  IDV</th>\n      </tr>\n  <tr>\n    <th>Age of the Vehicle</th>\n    <th>% of Depreciation for Fixing IDV</th>\n  </tr>\n  <tr>\n    <td>Not exceeding 6 months</td>\n    <td>5%</td>\n  </tr>\n  <tr>\n    <td>Exceeding 6 months but not exceeding 1 year</td>\n    <td>15%</td>\n  </tr>\n  <tr>\n    <td>Exceeding 1 year but not exceeding 2 years</td>\n    <td>20%</td>\n  </tr>\n  <tr>\n    <td>Exceeding 2 years but not exceeding 3 years</td>\n    <td>30%</td>\n  </tr>\n  <tr>\n    <td>Exceeding 3 years but not exceeding 4 years</td>\n    <td>40%</td>\n  </tr>\n  <tr>\n    <td>Exceeding 4 years but not exceeding 5 years</td>\n    <td>50%</td>\n  </tr>\n</tbody></table>\n<b>\n    Note.: 1. IDV of obsolete models of vehicles   (ie. Models which the manufacturers have  discontinued to manufacture) and vehicles beyond 5 years of age will be determined on the  basis of an agreed percentage between the insurer and the insured.\n    </b>\n<!-- Third Table -->\n<table>\n  <tbody><tr>\n    <th style=\"text-align: center; font-size: 14px;\">Declaration by the Proposer</th>\n  </tr>\n  <tr>\n    <td>I / We hereby declare that the statements made by me / us in this Proposal Form, including document(s) attached, are true and correct, to the best of my / our knowledge and belief and nothing materially affecting the risk has / have been concealed by me / us. I / We hereby agree that this declaration shall form the basis of the contract between me / us and \"The New India Assurance Co. Ltd.\" and shall form part of the insurance contract.</td>\n  </tr>\n  <tr>\n    <td>I/We further declare that I/We do not hold an effective Driving License to drive the insured vehicle and therefore I/We am/are ineligible for Compulsory Owner Driver Personal Accident cover. (Please refer point 3.1 of proposal form)*</td>\n  </tr>\n  <tr>\n    <td>I / We further declare that any addition(s) or alteration(s) or modification(s) is / are carried out in the vehicle or in the document(s), during the currency of the policy, furnished / forming part of this Proposal Form, shall be intimated in writing to the Insurer immediately, failing which, the same shall be construed as breach of the Contract and my / our rights shall be forfeited thereunder, irrespective of whether or not, the same is material to the losses / Liabilities.</td>\n  </tr>\n  <tr>\n    <td>I / We also declare that I / we shall comply with the requirements of M. V. Act, 1988, and subsequent amendments thereto from time to time and rules made there under.\n    </td>\n  </tr>\n  <tr>\n    <td>I / We also declare that I / we shall inform this insurer, in case, the Government requisitions this vehicle during the currency of the Policy (GR-38 of IMT).\n    </td>\n  </tr>\n  <tr>\n    <td>  I/We hereby declare that the vehickle proposed for insurance has a valid PUC &amp; Fitness Certificate(in case of transport vehicles) on the date of fresh issuance/renewal of the policy\n    </td>\n  </tr>\n  <tr>\n    <td>I / We also declare that this vehicle shall be handed over to the Driver only after due verification of genuinity and effectiveness of his Driving Licence to drive this vehicle\n    </td>\n  </tr>\n  <tr>\n    <td>I / We hereby also declare that I / we am / are willing to accept a policy of insurance in this company\u2019s usual Form.\n    </td>\n  </tr>\n</tbody></table>"
+  },
+  {
+   "fieldname": "section_break_nbny",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "place",
+   "fieldtype": "Data",
+   "label": "Place"
+  },
+  {
+   "default": "now",
+   "fieldname": "date_and_time",
+   "fieldtype": "Datetime",
+   "label": "Date & Time"
+  },
+  {
+   "fieldname": "column_break_gcmj",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "lti___signatures_of_the_proposer",
+   "fieldtype": "Signature",
+   "label": "LTI /  Signature(s) of the Proposer"
+  },
+  {
+   "fieldname": "name_of_the_witness_with_signatue",
+   "fieldtype": "Signature",
+   "label": "Name of the Witness with signatue"
+  },
+  {
+   "depends_on": "eval: doc.workflow_state=='Ready For Underwriting'",
+   "fieldname": "section_break_yhlb",
+   "fieldtype": "Section Break",
+   "label": "Under Writing "
+  },
+  {
+   "fieldname": "kyc_done_or_not",
+   "fieldtype": "Select",
+   "label": "Is KYC completed ?",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "column_break_iquy",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "back_ground_checking_done_or_not",
+   "fieldtype": "Select",
+   "label": "Is background checking completed ?",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "column_break_xdyz",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "documents_verification_done_or_not",
+   "fieldtype": "Select",
+   "label": "Is documents verification completed ?",
+   "options": "\nYes\nNo"
+  },
+  {
+   "fieldname": "column_break_zbjt",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "vehicle_inspection_done_or_not",
+   "fieldtype": "Select",
+   "label": "Is vehicle Inspection completed ?",
+   "options": "\nYes\nNo"
+  },
+  {
+   "depends_on": "eval: doc.workflow_state=='Ready For Underwriting'",
+   "fieldname": "section_break_cyai",
+   "fieldtype": "Section Break"
+  },
+  {
+   "default": "0",
+   "fieldname": "is_broker_involved",
+   "fieldtype": "Check",
+   "label": "Is Broker Involved"
+  },
+  {
+   "fieldname": "column_break_xpnd",
+   "fieldtype": "Column Break"
+  },
+  {
+   "depends_on": "eval:doc.is_broker_involved===1",
+   "fieldname": "select_broker",
+   "fieldtype": "Link",
+   "label": "Select Broker",
+   "options": "Customer"
+  },
+  {
+   "fieldname": "column_break_tgmc",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "commission",
+   "fieldtype": "Data",
+   "hidden": 1,
+   "label": "Commission"
+  },
+  {
+   "depends_on": "eval: doc.workflow_state=='Ready For Underwriting' || doc.workflow_state=='Approved'",
+   "fieldname": "section_break_klst",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fetch_from": "policy_scheme.valuation_rate",
+   "fieldname": "premium_rate",
+   "fieldtype": "Currency",
+   "label": "Premium rate"
+  },
+  {
+   "default": "0",
+   "fieldname": "tax_rate",
+   "fieldtype": "Percent",
+   "label": "Applicable tax if any %"
+  },
+  {
+   "fieldname": "column_break_cmem",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "sum_insured",
+   "fieldtype": "Currency",
+   "label": "Sum Insured"
+  },
+  {
+   "default": "0",
+   "fieldname": "discount_rate",
+   "fieldtype": "Percent",
+   "label": "Discount %",
+   "options": "0"
+  },
+  {
+   "default": "0",
+   "fieldname": "total_amount",
+   "fieldtype": "Currency",
+   "label": "Amount"
+  },
+  {
+   "fieldname": "section_break_sbhm",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "endorsement_id",
+   "fieldtype": "Data",
+   "hidden": 1,
+   "label": "Endorsement_id"
+  },
+  {
+   "fieldname": "column_break_lsyv",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "endorsement_type",
+   "fieldtype": "Data",
+   "hidden": 1,
+   "label": "Endorsement type"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-06-12 15:57:33.222928",
+ "modified_by": "Administrator",
+ "module": "Export Check",
+ "name": "Policy",
+ "naming_rule": "Expression (old style)",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "track_changes": 1
+}
