@@ -171,3 +171,33 @@
 2024-06-14 12:06:31,081 INFO /Users/vamsi/erpnext/env/bin/bench watch
 2024-06-14 12:06:31,086 INFO /Users/vamsi/erpnext/env/bin/bench schedule
 2024-06-14 12:06:31,098 INFO /Users/vamsi/erpnext/env/bin/bench worker
+2024-06-14 13:05:48,106 INFO /Users/vamsi/erpnext/env/bin/bench start
+2024-06-14 13:06:16,501 INFO /Users/vamsi/erpnext/env/bin/bench start
+2024-06-14 13:06:16,785 INFO /Users/vamsi/erpnext/env/bin/bench watch
+2024-06-14 13:06:16,794 INFO /Users/vamsi/erpnext/env/bin/bench schedule
+2024-06-14 13:06:16,796 INFO /Users/vamsi/erpnext/env/bin/bench serve --port 8002
+2024-06-14 13:06:16,800 INFO /Users/vamsi/erpnext/env/bin/bench worker
+2024-06-14 13:07:23,100 INFO /Users/vamsi/erpnext/env/bin/bench --version
+2024-06-14 13:07:25,420 INFO /Users/vamsi/erpnext/env/bin/bench start
+2024-06-14 13:36:51,750 INFO /Users/vamsi/erpnext/env/bin/bench startt
+2024-06-14 13:36:55,292 INFO /Users/vamsi/erpnext/env/bin/bench start
+2024-06-14 13:37:04,471 INFO /Users/vamsi/erpnext/env/bin/bench start
+2024-06-14 13:46:54,828 INFO /Users/vamsi/erpnext/env/bin/bench
+2024-06-14 13:46:59,491 INFO /Users/vamsi/erpnext/env/bin/bench --version
+2024-06-14 13:47:03,332 INFO /Users/vamsi/erpnext/env/bin/bench start
+2024-06-14 13:52:37,497 INFO /Users/vamsi/erpnext/env/bin/bench start
+2024-06-14 13:53:00,940 INFO /Users/vamsi/erpnext/env/bin/bench start
+2024-06-14 13:53:19,183 INFO /Users/vamsi/erpnext/env/bin/bench start
+2024-06-14 13:53:19,475 INFO /Users/vamsi/erpnext/env/bin/bench worker
+2024-06-14 13:53:19,478 INFO /Users/vamsi/erpnext/env/bin/bench schedule
+2024-06-14 13:53:19,478 INFO /Users/vamsi/erpnext/env/bin/bench watch
+2024-06-14 13:53:19,491 INFO /Users/vamsi/erpnext/env/bin/bench serve --port 8002
+2024-06-14 13:53:34,721 INFO /Users/vamsi/erpnext/env/bin/bench start
+2024-06-14 13:53:34,990 INFO /Users/vamsi/erpnext/env/bin/bench serve --port 8002
+2024-06-14 13:53:34,999 INFO /Users/vamsi/erpnext/env/bin/bench worker
+2024-06-14 13:53:35,003 INFO /Users/vamsi/erpnext/env/bin/bench schedule
+2024-06-14 13:54:43,932 INFO /Users/vamsi/erpnext/env/bin/bench start
+2024-06-14 13:54:44,212 INFO /Users/vamsi/erpnext/env/bin/bench serve --port 8002
+2024-06-14 13:54:44,218 INFO /Users/vamsi/erpnext/env/bin/bench worker
+2024-06-14 13:54:44,222 INFO /Users/vamsi/erpnext/env/bin/bench schedule
+2024-06-14 13:54:44,224 INFO /Users/vamsi/erpnext/env/bin/bench watch
